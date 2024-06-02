@@ -1,5 +1,5 @@
 export const keys = {
-    groq: '',
+    groq: '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',
     ollama: '',
-    openai: ''
+    openai: 'sk-proj-jaDYp2FEbBX85LbUPnq7T3BlbkFJB152DRhDaKeNK7XJKXSV'
 };
